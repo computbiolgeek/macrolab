@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/macrolab.dir/main.cpp.o  -o macrolab 

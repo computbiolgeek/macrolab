@@ -1,0 +1,4 @@
+/home/bian/opt/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/bian/coding_workspace/macrolab
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bian/coding_workspace/macrolab/cmake-build-debug
